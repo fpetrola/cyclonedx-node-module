@@ -13,6 +13,15 @@
   },
   "copyright": "Copyright OWASP Foundation",
   "dependencies": {
-    "@cyclonedx/cyclonedx-npm": "*"
-  }
+    "@xmldom/xmldom": "^0.8.2",
+    "commander": "^8.1.0",
+    "packageurl-js": "^0.0.6",
+    "parse-packagejson-name": "^1.0.1",
+    "prettify-xml": "^1.2.0",
+    "read-installed": "^4.0.3",
+    "ssri": "^8.0.0",
+    "synp": "^1.9.10",
+    "uuid": "^8.3.0",
+    "xmlbuilder": "^15.1.1"
+  },
 }
